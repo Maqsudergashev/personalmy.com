@@ -1,0 +1,48 @@
+
+h1{ background-color: black;
+    block-size: auto;
+    border-radius: 2cm;
+    font-size: 1.5cm;
+    color: aquamarine;
+    text-align: center;
+    text-shadow: 1cm;
+}
+h3{ background-color: chartreuse;
+    color: darkblue;
+    border-color: black;
+    border-style: outset;
+    border-width: 0.08cm;
+    border-style: dashed;
+}  
+img{
+    border-radius: 8cm;
+    border-style: double;
+    border-width: 3mm;
+    border-color: rgb(255, 231, 18);
+}
+h6{ background-color: rgb(3, 59, 87);
+    font-family: monospace;
+    font-size: 1mm;
+}
+h2{ border-color: rgb(85, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-width: 5mm;
+    
+    color: rgb(51, 0, 87);
+    border-radius: 1cm;
+    border-style: groove;
+    background-color: blanchedalmond;
+}
+body{
+    background-color: darkturquoise;
+    
+}
+a{  background-color: mediumblue;
+    border-radius: 1cm;
+    color: turquoise;
+    font-size: 10mm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    font-variant: small-caps;
+    text-decoration: double;
+}

@@ -1,0 +1,23 @@
+a{  background:linear-gradient(red, yellow, red, yellow, red); 
+    border-radius: 1cm;
+    color: azure;
+    font-size: 10mm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: small-caps;
+    text-decoration: double;
+    border-color: rgb(255, 255, 255);
+    border-width: 1mm;
+    border-right-style: ridge;
+    border-left-style: ridge;
+    border-bottom-style: ridge;
+    border-color: azure;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url("w223.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+h6{color: white;
+font-style: oblique;}
